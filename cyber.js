@@ -15,3 +15,11 @@ const talentData = [
       avTalent: 10
     }
   ];
+
+  function printJobData() {
+    talentData.forEach((talent) => {
+        console.log(`${talent.expLevel} has ${talent.openJobs} open jobs.`);
+    });
+}
+
+printJobData();
