@@ -28,3 +28,6 @@ The cybersecurity industry faces a persistent shortage of experienced profession
 ## Timeline
 
 The solutions will be developed over a two-week timeframe, focusing on providing high-impact, accessible resources for beginners in cybersecurity.
+
+## slides 
+[Link to Google Slides Presentation](https://docs.google.com/presentation/d/1Nrctpoh9DvrU2IA1CEy0BK0KWmkdDnGAsPqlH19ZRKk/edit#slide=id.g10f9e629ec3_0_552)
