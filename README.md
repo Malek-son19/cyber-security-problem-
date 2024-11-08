@@ -9,12 +9,9 @@ The cybersecurity industry faces a persistent shortage of experienced profession
 - **Skill Development:** Empower individuals to develop relevant cybersecurity skills through accessible information and peer support.
 - **Branding and Visibility:** Help beginners establish a professional presence to attract potential employers.
 
-## Solutions
+## Solution
 
-1. **Informative Website:** Develop a website that provides essential information, guides, and career paths for aspiring cybersecurity professionals.
-2. **Blog Series:** Write a series of blog posts that address common challenges in cybersecurity and provide actionable advice for overcoming them.
-3. **Online Community:** Build a community where beginners can connect, ask questions, share experiences, and receive informal mentorship.
-
+ **Informative Website:** Develop a website that provides essential information, guides, and career paths for aspiring 
 ## Target Audience
 
 - **Cybersecurity Beginners:** Individuals trying to break into the industry who need guidance, resources, and support.
@@ -31,3 +28,4 @@ The solutions will be developed over a two-week timeframe, focusing on providing
 
 ## slides 
 [Link to Google Slides Presentation](https://docs.google.com/presentation/d/1Nrctpoh9DvrU2IA1CEy0BK0KWmkdDnGAsPqlH19ZRKk/edit#slide=id.g10f9e629ec3_0_552)
+[Link to Trello Board for Cyber Problem](https://trello.com/b/vouoKXS5/cyber-problem)
