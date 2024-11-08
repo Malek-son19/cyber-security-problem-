@@ -29,3 +29,4 @@ The solutions will be developed over a two-week timeframe, focusing on providing
 ## slides 
 [Link to Google Slides Presentation](https://docs.google.com/presentation/d/1Nrctpoh9DvrU2IA1CEy0BK0KWmkdDnGAsPqlH19ZRKk/edit#slide=id.g10f9e629ec3_0_552)
 [Link to Trello Board for Cyber Problem](https://trello.com/b/vouoKXS5/cyber-problem)
+[Link to Research Paper for Cybersecurity Project](https://docs.google.com/document/d/10O8ouy8OIWoRg-2A2L_CVsg68nclzDH-Pr8QSaMpkQo/edit?tab=t.0)
