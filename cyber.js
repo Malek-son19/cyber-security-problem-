@@ -27,13 +27,15 @@ function countAllOpenJobs() {
   console.log(`Total open jobs: ${totalOpenJobs}`);
 }
 
+
+
 function calculateGaps() {
   let maxGap = -Infinity;
   let levelWithMaxGap = '';
   let totalGap = 0; 
   console.log("\nGaps between available talent and open jobs:");
 
-  talentData.forEach((talent) => {
+  talentData.forEach((talent) =>  {
       const gap = Math.abs(talent.avTalent - talent.openJobs);
       console.log(`${talent.expLevel} has a gap of ${gap}`);
 
