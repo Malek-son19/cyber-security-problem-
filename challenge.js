@@ -28,7 +28,6 @@ function countAllOpenJobs() {
 }
 
 
-
 function calculateGaps() {
   let maxGap = -Infinity;
   let levelWithMaxGap = '';
